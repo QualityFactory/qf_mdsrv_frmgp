@@ -1,0 +1,14 @@
+{
+  "name": "qf-frmgp",
+  "version": "0.0.1",
+  "author": "qf",
+  "summary": "Modulo para provisionamento do tuleap",
+  "license": "MIT",
+  "source": "https://github.com/QualityFactory/qf_mdsrv_frmgp",
+  "project_page": "https://github.com/QualityFactory/qf_mdsrv_frmgp",
+  "issues_url": "https://github.com/QualityFactory/qf_mdsrv_frmgp/issues",
+  "dependencies": [
+    {"name":"garethr/docker","version_requirement":">=5.3.0"}
+  ],
+  "data_provider": null
+}
